@@ -32,6 +32,21 @@ Pertence a serviços de nuvem ou provedores de host, fornecendo recursos e servi
 Combina elementos da nuvem pública e privada, oferecendo o melhor dos dois modelos, equilibrando a escalabilidade da nuvem pública com a segurança e o controle da nuvem privada.
 
 
+### Modúlo 2 do Curso de **Introdução ao Cloud Computing**:
+
+Nesse modúlo vimos os beneficios da Nuvem Azure.
+
+- Alta Disponibilidade: Garante a alta disponibilidade e a possibilidade de replicar dados em várias regiões para garantir redundância e recuperação de desastres.
+  E um um SLA de até 99,99% de tempo de atividade para serviços principais.
+
+- Escalabilidade e Flexibilidade: Permite que você aumente ou reduza facilmente seus recursos com base na demanda, garantindo que sua infraestrutura sempre atenda às suas necessidades.
+
+- Flexibilidade: Recursos implementados podem ser expandidos ( manualmente ou automaticamente).
+
+- Confiabilidade: Oferece proteção avançada com criptografia de dados, detecção de ameaças e recursos como Azure Security Center para monitoramento proativo.
+
+- Alem de recusros de Previsibilidade e Governança.
+
 
 
 
